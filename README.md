@@ -2,7 +2,7 @@
 Lessons and exercices from book "Beginning Programming with C For Dummies". 
 
 *** WARNING ***
-Chapters 1, 2 and 3 were skipped in the archives for a very strong reason. 
+Chapters 1, 2 were skipped in the archives for a very strong reason. 
 
 ****** VERY RUDIMENTARY AND SIMPLE! ******
 
